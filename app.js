@@ -1,4 +1,3 @@
-var GitHubApi = require("github");
 var _ = require('lodash');
 var config = require('./config.js');
 var fs = require('fs');
