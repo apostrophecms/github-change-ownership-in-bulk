@@ -22,7 +22,7 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "boring": "^0.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "request-promise": "^4.2.2"
   }
 }
