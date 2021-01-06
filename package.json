@@ -1,6 +1,6 @@
 {
   "name": "github-change-ownership-in-bulk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change ownership of many repos quickly.",
   "main": "app.js",
   "scripts": {
@@ -8,21 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/punkave/github-change-ownership-in-bulk.git"
+    "url": "git+https://github.com/apostrophecms/github-change-ownership-in-bulk.git"
   },
   "keywords": [
     "github"
   ],
-  "author": "P'unk Avenue LLC",
+  "author": "Apostrophe Technologies, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/punkave/github-change-ownership-in-bulk/issues"
+    "url": "https://github.com/apostrophecms/github-change-ownership-in-bulk/issues"
   },
-  "homepage": "https://github.com/punkave/github-change-ownership-in-bulk#readme",
+  "homepage": "https://github.com/apostrophecms/github-change-ownership-in-bulk#readme",
   "dependencies": {
     "bluebird": "^3.5.1",
     "boring": "^0.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "request-promise": "^4.2.2"
   }
 }
